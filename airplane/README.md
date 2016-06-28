@@ -9,6 +9,12 @@ An airplane with one row would be the following:
 
 We say that a family of 3 was seated together when they are side by side, on
 3 contiguous seats, with no isles or other people between them.
+
+
 For example a family of 3 would be seated together if they were on seats:
 
-    "1A 1B 1C" but not on "1G 1H 1I"
+    "1A 1B 1C"
+
+But they could not be seated together on seats:
+
+    "1G 1H 1I"
